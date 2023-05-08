@@ -1,0 +1,21 @@
+.featured-games-container {
+  border: 1px solid black;
+  width: 47.5%;
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.featured-games-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: orange;
+}
+
+.featured-four-games {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0 1rem;
+}

@@ -1,0 +1,22 @@
+.genre-container {
+  width: 75%;
+  background-color: rgb(245, 244, 239);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  align-self: center;
+}
+
+.genre-title {
+  font-size: 1.5rem;
+  color: orange;
+  font-weight: 700;
+}
+
+.genre-box {
+  display: flex;
+  gap: 2rem;
+  width: 90%;
+}

@@ -1,0 +1,75 @@
+.game-box-container {
+  background-color: beige;
+  border: 1px solid black;
+  width: 45%;
+  height: 200px;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.game-box-title {
+  margin-top: 0.25rem;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin-bottom: 0.7rem;
+  color: rebeccapurple;
+}
+
+.game-box-content {
+  display: flex;
+}
+
+.game-box-image {
+  width: 8rem;
+  border-radius: 550px;
+  margin: 0 1rem;
+}
+
+.game-box-content-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.game-box-genre-and-point {
+  display: flex;
+  justify-content: space-between;
+  width: 225px;
+}
+
+.game-box-genres {
+  list-style: none;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.25rem;
+  text-indent: 1rem;
+}
+
+.game-box-point {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(92, 165, 92);
+  color: white;
+  font-size: 2rem;
+  width: 35%;
+  min-height: 6rem;
+  border-radius: 1.5rem;
+}
+
+.game-box-footer {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 0.5rem;
+}
+
+.game-box-footer-item {
+  flex: 1;
+}
+
+.platform-icon {
+  margin: 0 0.25rem;
+}

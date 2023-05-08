@@ -1,0 +1,78 @@
+{
+  "popularGames": [
+    {
+      "id": 1,
+      "title": "Counter-Strike: Global Offensive",
+      "icon": "https://i.pinimg.com/originals/45/73/0b/45730ba3ffe768049af74193fdfd9ecc.png",
+      "releaseDate": 2012,
+      "score": 8.2,
+      "genres": ["Action", "Tactical", "Shooting", "FPS"],
+      "platforms": ["steam", "xbox"]
+    },
+    {
+      "id": 2,
+      "title": "Grand Theft Auto V",
+      "icon": "https://icon-library.com/images/grand-theft-auto-v-icon/grand-theft-auto-v-icon-2.jpg",
+      "releaseDate": 2013,
+      "score": 8.8,
+      "genres": ["Drama", "Storyline", "Shooting", "TPS"],
+      "platforms": ["steam", "xbox", "playstation"]
+    },
+    {
+      "id": 3,
+      "title": "Red Dead Redemption 2",
+      "icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/2e65f2f2fdaf6c699b223c61b1b5ab89.png",
+      "releaseDate": 2018,
+      "score": 8.2,
+      "genres": ["Storyline", "Drama", "Shooting", "TPS"],
+      "platforms": ["steam", "xbox", "playstation"]
+    },
+    {
+      "id": 4,
+      "title": "Darkest Dungeon II",
+      "icon": "https://styles.redditmedia.com/t5_2znp4/styles/communityIcon_f3414fqqliy71.png?width=256&s=b612f656205d43cec889ec9bca938a2e292db09f",
+      "releaseDate": 2021,
+      "score": 7.2,
+      "genres": ["Rogue-Lite", "Turn-Based"],
+      "platforms": ["steam"]
+    }
+  ],
+  "newGames": [
+    {
+      "id": 1,
+      "title": "Loop Hero",
+      "icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/4427350b39dcbd8e8da4f053283e3984.ico",
+      "releaseDate": 2023,
+      "score": 8.1,
+      "genres": ["Tactical", "Rogue-Lite"],
+      "platforms": ["steam", "xbox"]
+    },
+    {
+      "id": 2,
+      "title": "Brotato",
+      "icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/2e904afa80a8ca949f187f64ff2d15b2/32/256x256.png",
+      "releaseDate": 2022,
+      "score": 6.6,
+      "genres": ["Action", "Platform", "Rogue-Lite"],
+      "platforms": ["steam", "xbox", "playstation"]
+    },
+    {
+      "id": 3,
+      "title": "Dead Cells",
+      "icon": "https://yuzu-emu.org/images/game/boxart/dead-cells.png",
+      "releaseDate": 2020,
+      "score": 9.5,
+      "genres": ["Platform", "Rogue-Lite"],
+      "platforms": ["steam", "xbox", "playstation"]
+    },
+    {
+      "id": 4,
+      "title": "Hades",
+      "icon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/851300ee84c2b80ed40f51ed26d866fc/32/256x256.png",
+      "releaseDate": 2021,
+      "score": 8.2,
+      "genres": ["Rogue-Lite", "Action"],
+      "platforms": ["steam", "xbox", "playstation"]
+    }
+  ]
+}
